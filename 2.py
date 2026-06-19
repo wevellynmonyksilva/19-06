@@ -1,1 +1,1 @@
-print("ano de nacimento")
+print (" sua data ")

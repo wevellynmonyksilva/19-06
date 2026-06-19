@@ -1,1 +1,1 @@
-print("digite sua idade")
+print("digite sua data de nacimento")
