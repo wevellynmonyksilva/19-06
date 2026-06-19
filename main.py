@@ -1,0 +1,1 @@
+nome_cid= input("nome da sua mãe")
